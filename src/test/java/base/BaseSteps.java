@@ -1,8 +1,8 @@
 package base;
 
 import org.openqa.selenium.WebDriver;
-import pages.base.HomePage;
-import verifications.base.*;
+import pages.HomePage;
+import verifications.HomePageVerification;
 
 public class BaseSteps {
 

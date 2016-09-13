@@ -1,5 +1,5 @@
 @Smoke
-Feature: RE/MAX Smoke tests
+Feature: Facey Smoke tests
 
   Scenario: Start driver
     Given start driver
@@ -11,4 +11,3 @@ Feature: RE/MAX Smoke tests
 
   Scenario: Close driver
     Given close driver
-
